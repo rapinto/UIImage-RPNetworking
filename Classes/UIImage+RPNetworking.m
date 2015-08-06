@@ -29,6 +29,7 @@
 
 
 #import "UIImage+RPNetworking.h"
+#import "UIImageView+AFNetworking.h"
 
 
 
